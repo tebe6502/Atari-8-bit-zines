@@ -1,0 +1,18 @@
+site_name: Atari 8-bit zines
+site_author: TeBe
+site_description: "Atari zines"
+site_keyword: "cross-compiler"
+
+repo_url: https://github.com/tebe6502/Atari-8-bit-zines/
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_style: dark
+    hljs_languages:
+        - armasm
+
+nav:
+    - Atarynka 2: atarynka2.md
+    - Megatazin 1: megatazin1.md
+    - Megatazin 2: megatazin2.md
